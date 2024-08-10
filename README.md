@@ -1,4 +1,3 @@
-Here’s a visually appealing and informative README section for your GitHub project:
 
 ---
 
